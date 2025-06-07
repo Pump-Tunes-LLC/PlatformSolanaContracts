@@ -72,7 +72,7 @@ These smart contracts represent the infrastructure for a new music economy where
 ## 🔗 Learn More
 
 - **Platform**: [www.pumptunes.fun](https://www.pumptunes.fun)
-- **Twitter**: [@pumptunesfun](https://x.com/pumptunesfun)
+- **X**: [@pumptunesfun](https://x.com/pumptunesfun)
 - **Telegram**:[Pumptunes.fun Chat](https://t.me/+FKHyd1ABBrRmZjAx)
 
 **Revolutionizing music ownership, one token at a time.**
